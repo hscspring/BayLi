@@ -2,7 +2,7 @@
 .*
 *.ipynb
 **/node_modules
--lock.json
+*-lock.json
 
 __pycache__/
 *.py[cod]
