@@ -1,4 +1,9 @@
 # Byte-compiled / optimized / DLL files
+.*
+*.ipynb
+**/node_modules
+-lock.json
+
 __pycache__/
 *.py[cod]
 *$py.class
