@@ -1,6 +1,5 @@
 {
   "name": "bayli_client",
-  "proxy": "http://localhost:8000",
   "version": "1.0.0",
   "description": "",
   "keywords": [
@@ -12,6 +11,7 @@
   "dependencies": {
     "@chatui/core": "1.0.2",
     "axios": "^0.21.1",
+    "http-proxy-middleware": "^2.0.1",
     "react": "17.0.2",
     "react-dom": "17.0.2",
     "react-scripts": "4.0.3",
